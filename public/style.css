@@ -1,0 +1,13 @@
+body{
+    background-image: url('/assets/login-bg.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    margin-top:10%
+}
+
+.btn-success{
+    margin-top:20px
+}
